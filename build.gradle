@@ -10,7 +10,7 @@ repositories {
 	mavenCentral()
 }
 
-def runeLiteVersion = '1.9.11-SNAPSHOT'
+def runeLiteVersion = '1.10.3'
 
 dependencies {
 	implementation 'org.jetbrains:annotations:20.1.0'
